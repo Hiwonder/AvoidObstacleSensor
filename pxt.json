@@ -1,0 +1,18 @@
+{
+    "name": "avoid_sensor",
+    "version": "0.0.1",
+    "description": "Blocks for Hiwonder avoid obstacle sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/avoid_sensor-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
